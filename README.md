@@ -16,6 +16,7 @@ O objetivo desta atividade é avaliar conhecimentos básicos do Javascript. Abai
 
 Criação de componente conforme imagem abaixo:
 
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 ## Regras de implementação COMPONENTE 1 (Listagem)
 
