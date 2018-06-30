@@ -1,6 +1,6 @@
 # Teste Prático
 
-O objetivo desta atividade é avaliar conhecimentos básicos do Javascript. Abaixo algumas intruções:
+O objetivo desta atividade é avaliar conhecimentos básicos do Javascript. Abaixo algumas instruções:
 
 ## Tecnologias a serem utilizadas:
 
