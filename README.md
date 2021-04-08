@@ -52,7 +52,7 @@ Para a implementação deste teste, deverá ser usada a API de "users" que é fo
 
 ## REGRAS
 
-1 - A implementação deverá ser entregue via este repositórios gitHub.
+1 - A implementação deverá ser entregue via compartilhamento de repositório no gitHub.
 
 2 - Como estamos usando uma API de teste, operações de Criação e Exclusão dos registros, são fakes. Ou seja, o servidor irá retornar sucesso, porém os dados não serão persistidos. Para a nossa avaliação o que é importante é ver as operações sendo executadas e o reflexo disto nos componentes.
 
